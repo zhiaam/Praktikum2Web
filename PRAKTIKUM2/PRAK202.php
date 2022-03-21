@@ -48,7 +48,6 @@
         <span class="kosong">* <?php echo $jenkelk;?></span><br>
         <input type="radio" name="jenkel" value="Laki-Laki">Laki-Laki<br>
         <input type="radio" name="jenkel" value="Perempuan">Perempuan<br>
-        <input type="radio" name="jenkel" value="HELIKOPTER HELIKOPTER">Helikopter<br>
         <button type="submit" name="submit">Submit</button>
     </form>
 
